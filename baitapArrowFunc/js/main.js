@@ -12,6 +12,7 @@ const colorList = [
   "cinnabar",
 ];
 
+//render button
 const rendercolorHTML = (rs) => {
   let content = "";
   for (valueColor of rs) {
